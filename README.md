@@ -1,1 +1,1 @@
-# code-snap
+# Code Snap Chrome Extension
