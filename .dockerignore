@@ -1,0 +1,15 @@
+# Ignore build artifacts and temporary files
+node_modules
+npm-debug.log
+
+# Ignore version control files
+.git
+.svn
+
+# Ignore text editor configuration files
+.vscode
+.idea
+
+# Ignore other unnecessary files
+*.log
+*.tmp
