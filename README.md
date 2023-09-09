@@ -10,3 +10,9 @@ CodeSnap is a powerful Google Chrome extension designed to simplify the process 
 - Enhanced Productivity: Save time by eliminating the need to manually transcribe code from images. Get your code in seconds.
 
 - Easy Integration: Seamlessly integrate CodeSnap into your Chrome browser for quick access whenever you need it.
+
+## How to Run?
+- Fork the repo
+- Clone repo in your computer
+- `cd app && docker build -t code-snap-app-image .`
+- `docker-compose up`
