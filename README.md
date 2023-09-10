@@ -19,5 +19,4 @@ CodeSnap is a powerful Google Chrome extension designed to simplify the process 
 - Clone repo in your computer
 - Pull docker image in your computer by using docker desktop or command line
 - >. https://hub.docker.com/r/dhdevsol/code-snap-image
-- `cd app && docker build -t code-snap-app-image .`
 - `docker-compose up`
